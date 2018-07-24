@@ -1,0 +1,36 @@
+
+state={
+	id=105
+	name="STATE_105"
+	resources={
+		chromium=20.000
+		aluminium=70.000
+	}
+
+	history={
+		owner = TUR
+		victory_points = {
+			9809 6 
+		}
+
+		add_core_of = MNT
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 4
+			9809 = {
+				naval_base = 1
+
+			}
+
+		}
+		add_core_of = TUR
+
+	}
+
+	provinces={
+		9809 11858 
+	}
+	manpower=895500
+	buildings_max_level_factor=2.000
+	state_category=city
+}

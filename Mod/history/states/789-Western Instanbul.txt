@@ -1,0 +1,25 @@
+state={
+	id=789
+	name="STATE_789"
+	
+	history={
+		add_core_of = GRE
+		owner = TUR
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 1
+			arms_factory = 5
+			air_base = 4
+
+		}
+		add_core_of = TUR
+
+	}
+
+	provinces={
+		3893 11842 
+	}
+	manpower=406453
+	buildings_max_level_factor=1.000
+    state_category=enclave
+}

@@ -1,0 +1,23 @@
+state={
+	id=780
+	name="STATE_780"
+	
+	history={
+		owner = AUS
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+
+		}
+		
+		add_core_of = AUS
+add_claym_by = ROM
+	}
+
+	provinces={
+		746 9687 
+	}
+	manpower=175564
+	buildings_max_level_factor=1.000
+ state_category=town
+}

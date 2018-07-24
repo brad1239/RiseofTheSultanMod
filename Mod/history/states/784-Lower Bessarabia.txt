@@ -1,0 +1,29 @@
+state={
+	id=784
+	name="STATE_784"
+
+	history={
+		owner = ROM
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+            dockyard = 1
+			6727 = {
+				naval_base = 3
+
+			}
+		}
+		victory_points = {
+			6711 5 
+		}
+		add_core_of = ROM
+
+	}
+
+	provinces={
+		3701 3704 6727 
+	}
+	manpower=178683
+	buildings_max_level_factor=1.000
+    state_category=town
+}

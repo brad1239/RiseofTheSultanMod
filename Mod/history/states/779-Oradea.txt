@@ -1,0 +1,22 @@
+state={
+	id=779
+	name="STATE_779"
+	
+history={
+		owner = AUS
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 6
+
+		}
+		add_core_of = AUS
+add_claym_by = ROM
+	}
+
+	provinces={
+		713 3696 3709 
+	}
+	manpower=543332
+	buildings_max_level_factor=1.000
+   state_category=town
+}

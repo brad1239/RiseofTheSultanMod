@@ -1,0 +1,27 @@
+state={
+	id=785
+	name="STATE_785"
+	
+	history={
+		owner = TUR
+		buildings = {
+			infrastructure = 3
+			arms_factory = 1
+			industrial_complex = 2
+			air_base = 3
+			11767 = {
+				naval_base = 4
+
+			}
+
+		}
+		add_core_of = TUR
+	}
+
+	provinces={
+		914 3448 6900 11767 
+	}
+	manpower=634234
+	buildings_max_level_factor=1.000
+  state_category=town
+}

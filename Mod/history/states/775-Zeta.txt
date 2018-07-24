@@ -1,0 +1,26 @@
+state={
+	id=775
+	name="STATE_775"
+	
+    history={
+		owner = MNT
+		victory_points = {
+			13206 6 
+		}
+
+		buildings = {
+			infrastructure = 4
+               arms_factory = 5
+		}
+		add_core_of = MNT
+		add_core_of = MNT
+
+	}
+
+	provinces={
+		13206 
+	}
+	manpower=34243
+	buildings_max_level_factor=1.000
+    state_category=city
+}

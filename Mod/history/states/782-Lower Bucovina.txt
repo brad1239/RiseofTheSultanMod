@@ -1,0 +1,22 @@
+state={
+	id=782
+	name="STATE_782"
+
+history=
+	{
+		owner = ROM
+		buildings = {
+			infrastructure = 6
+			arms_factory = 2
+		}
+		add_core_of = ROM
+	}
+
+	provinces={
+		6761 11689 
+	}
+	manpower=500000
+	buildings_max_level_factor=1.000
+	state_category = rural
+}
+

@@ -1,0 +1,30 @@
+state={
+	id=764
+	name="STATE_764"
+	resources={
+		aluminium=11.000
+        steel=21.000
+	 oil=44.000
+	}
+
+    history={
+		owner = TUR
+		buildings = {
+			infrastructure = 4
+
+		}
+		add_core_of = TUR
+		add_core_of = TUR
+        
+        victory_points = {
+			3882 1 
+		}
+	}
+
+	provinces={
+		867 3882 11832 
+	}
+	manpower=352521
+	buildings_max_level_factor=1.000
+    state_category=city
+}

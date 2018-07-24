@@ -1,0 +1,25 @@
+state={
+	id=763
+	name="STATE_763"
+
+	history={
+		owner = TUR
+		victory_points = {
+			6923 5 
+		}
+		buildings = {
+			infrastructure = 4
+
+		}
+		add_core_of = TUR
+		add_core_of = BUL
+
+	}
+
+	provinces={
+		878 893 935 3908 3937 6857 6923 9818 9862 9888 9902 11813 13213 13214 
+	}
+	manpower=563432
+	buildings_max_level_factor=7.000
+	state_category=town
+}
