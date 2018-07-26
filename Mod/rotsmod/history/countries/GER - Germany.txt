@@ -293,7 +293,7 @@ create_country_leader = {
 	name = "Wilhem II"
 	desc = "POLITICS_ADOLF_HITLER_DESC"
 	picture = "portrait_ger_wilhelm_ii.dds"
-	expire = "1939.1.1"
+	expire = "1941.1.1"
 	ideology = despotism
 	traits = {
 	}

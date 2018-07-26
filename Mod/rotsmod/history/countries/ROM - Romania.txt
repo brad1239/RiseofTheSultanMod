@@ -30,9 +30,6 @@ if = {
 	add_ideas = {
 		ROM_king_carol_ii_hedonist
 	}
-	give_guarantee = CZE
-	give_guarantee = GRE
-	give_guarantee = TUR
 }
 add_ideas = neutrality_idea
 
@@ -254,9 +251,9 @@ create_country_leader = {
 }
 
 create_country_leader = {
-	name = "Ion Antonescu"
+	name = "Corneliu Zelea Codreanu"
 	desc = "POLITICS_ION_ANTONESCU_DESC"
-	picture = "Portrait_Romania_Ion_Antonescu.dds"
+	picture = "Portrait_Romanua_Corneliu_Zelea_Codreanu.dds"
 	expire = "1965.1.1"
 	ideology = fascism_ideology
 	traits = {
