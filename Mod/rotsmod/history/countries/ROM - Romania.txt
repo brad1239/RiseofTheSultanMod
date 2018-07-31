@@ -218,9 +218,9 @@ set_politics = {
 }
 
 create_country_leader = {
-	name = "Carol II"
+	name = "Ferdinand I"
 	desc = "POLITICS_GHEORGHE_TATARESCU_DESC"
-	picture = "gfx/leaders/ROM/Portrait_romania_Carol_II.dds"
+	picture = "gfx/leaders/ROM/Portrait_Romania_Ferdinand_I.dds"
 	expire = "1965.1.1"
 	ideology = centrism
 	traits = {
