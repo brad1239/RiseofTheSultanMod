@@ -1,0 +1,25 @@
+state={
+	id=769
+	name="STATE_769"
+	
+	history={
+		owner = YUG
+		buildings = {
+			infrastructure = 6
+           11735 = {
+				naval_base = 5
+
+			}
+		}
+		add_core_of = YUG
+		add_core_of = CRO
+
+	}
+
+	provinces={
+		11735 
+	}
+	manpower=294243
+	buildings_max_level_factor=1.000
+   	state_category=rural
+}

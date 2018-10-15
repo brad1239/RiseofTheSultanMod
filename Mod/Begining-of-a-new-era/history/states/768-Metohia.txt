@@ -1,0 +1,24 @@
+state={
+	id=768
+	name="STATE_768"
+	
+	history={
+		owner = YUG
+		buildings = {
+			infrastructure = 4
+
+		}
+		add_core_of = YUG
+		add_core_of = SER
+  victory_points = {
+			9849 4 
+		}
+	}
+
+	provinces={
+		6940 9849 9874 
+	}
+	manpower=908435
+	buildings_max_level_factor=1.000
+ state_category=city
+}

@@ -1,0 +1,23 @@
+state={
+	id=775
+	name="STATE_775"
+
+	history={
+		owner = SUD
+		
+        set_demilitarized_zone = yes
+
+		buildings = {
+			infrastructure = 3
+
+		}
+
+	}
+
+	provinces={
+		1953 2096 4033 7996 10764 10857 10859 10877 10908 12744 12800 12887 
+	}
+	manpower=1879433
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

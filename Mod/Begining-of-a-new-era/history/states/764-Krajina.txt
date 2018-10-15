@@ -1,0 +1,26 @@
+state={
+	id=764
+	name="STATE_764"
+	
+	resources={
+		steel=8.000
+	}
+	history={
+		owner = YUG
+		buildings = {
+			infrastructure = 4
+
+		}
+		add_core_of = YUG
+victory_points = {
+			3974 5
+		}
+	}
+
+	provinces={
+		984 3592 3596 3601 3974 6611 
+	}
+	manpower=432423
+	buildings_max_level_factor=1.000
+state_category=large_town
+}
