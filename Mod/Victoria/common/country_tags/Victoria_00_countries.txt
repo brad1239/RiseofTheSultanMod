@@ -1,0 +1,2 @@
+OTT	= "countries/Ottomans.txt"
+RUS	= "countries/Russia.txt"
